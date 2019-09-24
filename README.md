@@ -11,4 +11,10 @@ Set up
 - Open `localhost:8000`, create a new site, go the `appearence->themes` and choose `underscores-template`
 
 
+Plugins:
+Download pligins and add them to ./plugins-template
+
+
+
+
 For help email me at dimitrispl96@gmail.com
